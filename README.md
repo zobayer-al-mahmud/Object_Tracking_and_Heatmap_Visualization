@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="vlcsnap-2025-10-16-21h42m36s143" src="https://github.com/user-attachments/assets/341c8470-3386-4dc2-82a5-6191a5d4fdd3" />
+
+
+<img width="1920" height="1080" alt="vlcsnap-2025-10-16-21h43m30s924" src="https://github.com/user-attachments/assets/5b66ab23-f097-4695-8d21-111fd9d2f0e2" />
+
 # 🧠 People Flow Detection & Counting (YOLOv8 + ByteTrack)
 
 This project detects, tracks, and counts people moving **IN** and **OUT** of a designated area using **YOLOv8 object detection** and **ByteTrack multi-object tracking**.
