@@ -169,4 +169,4 @@ MIT License — feel free to modify and reuse for research or educational projec
 * Example footage from [Roboflow Supervision Dataset](https://roboflow.com)
 
 
-✅ *Copy-paste this into your GitHub repo’s `README.md` and update your username or image URLs as needed.*
+
